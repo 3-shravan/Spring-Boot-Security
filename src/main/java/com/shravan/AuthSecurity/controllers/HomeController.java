@@ -9,5 +9,4 @@ public class HomeController {
     public String helo() {
         return "Helo to Spring boot application ";
     }
-
 }
